@@ -7,7 +7,7 @@
 3. **Collections Framework**: Discuss your knowledge of the Java Collections framework and its implementation.
 4. **Multithreading**: Discuss your experience with creating and managing threads in Java.
 5. **Exception Handling**: Explain your understanding of exception handling in Java and how to use try-catch blocks.
-6. **JDBC**: Explain your experience with database connectivity and operations using JDBC.
+6. **Hibernate**: Explain your experience with Hibernate and its operations.
 7. **Java 8 features**: Discuss your knowledge of functional programming concepts and their implementation in Java 8.
 8. **Design Patterns**: Explain your experience with using design patterns in Java, such as Singleton, Factory, Decorator, etc.
 9. **Spring Framework**: Discuss your experience with the Spring framework, its architecture, and the modules you have worked with.
